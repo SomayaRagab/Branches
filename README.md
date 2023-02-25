@@ -11,3 +11,24 @@ git branch -d branch_name
 git push origin :branch_name
 
 ```
+
+## list tag
+
+```bash
+git tag
+
+```
+
+## remove tag locally
+
+```bash
+
+git tag -d v1.7
+
+```
+## remove tag remote
+
+```bash
+git push origin --delete v1.7
+
+```
