@@ -1,11 +1,11 @@
 # Branches
 
-##remove branch locally
+## remove branch locally
 
 ```bash
 git branch -d branch_name
 ```
-##remove branch remote
+## remove branch remote
 
 ```bash
 git push origin :branch_name
